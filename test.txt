@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello, toi la quan ne
+=======
+tui test git nha
+
+>>>>>>> ae8b5b0062c5b772731ff036a4b95223a21e4a66
